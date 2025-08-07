@@ -1,8 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:&quot;onActivityResultAboveL&quot;" />
+    <option name="mostRecentlyUsed" value="message:&quot;uploadImage&quot; | message:&quot;上传进度&quot; | message:”发布1上传媒体“" />
     <option name="nonFavorites">
       <list>
+        <option value="message:&quot;uploadImage&quot; | message:&quot;上传进度&quot; | message:”发布1上传媒体“" />
+        <option value="message:&quot;uploadImage&quot; | message:&quot;上传进度&quot;" />
+        <option value="message:&quot;发布1上传媒体&quot; | message:&quot;上传进度&quot;" />
+        <option value="message:&quot;发布1上传媒体&quot;" />
+        <option value="message:&quot;onActivityResult&quot;" />
+        <option value="message:&quot;parseView&quot;" />
         <option value="message:&quot;onActivityResultAboveL&quot;" />
         <option value="message:&quot;看看有没有&quot;" />
         <option value="message:&quot;uploadImage&quot;" />
@@ -17,12 +23,6 @@
         <option value="message:&quot;local_set调用--origin&quot;" />
         <option value="message:&quot;onResume: -----------&gt;&quot;" />
         <option value="level:error and package:mine " />
-        <option value="package:mine" />
-        <option value="package:mine and level:error " />
-        <option value="message:&quot;expandFloatingWindow&quot;" />
-        <option value="message:&quot;handleMachineStatus&quot;" />
-        <option value="tag:&quot;handleMachineStatus&quot;" />
-        <option value="message:&quot;page&quot;" />
       </list>
     </option>
   </component>
