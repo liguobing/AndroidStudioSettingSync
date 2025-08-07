@@ -1,0 +1,35 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/AndroidStudioProjects/MarkdownDemo" value="true" />
+        <entry key="$USER_HOME$/Documents/SchoolManager" value="true" />
+        <entry key="$USER_HOME$/Downloads/AiStreamOutDemo_zh/AiStreamOutDemo" value="true" />
+        <entry key="$USER_HOME$/Downloads/AlbumCameraRecorder-1.1.80X" value="true" />
+        <entry key="$USER_HOME$/workspace/Android/Android-SelectableTextView" value="true" />
+        <entry key="$USER_HOME$/workspace/Android/Demo" value="true" />
+        <entry key="$USER_HOME$/workspace/Android/MarkdownView" value="true" />
+        <entry key="$USER_HOME$/workspace/Android/Markwon" value="true" />
+        <entry key="$USER_HOME$/workspace/Android/Markwon/app-sample" value="true" />
+        <entry key="$USER_HOME$/workspace/Android/MdTableTest" value="true" />
+        <entry key="$USER_HOME$/workspace/Android/RemoteView" value="true" />
+        <entry key="$USER_HOME$/workspace/Android/SchoolManager" value="true" />
+        <entry key="$USER_HOME$/workspace/Android/SelectableTextView" value="true" />
+        <entry key="$USER_HOME$/workspace/Android/Test" value="true" />
+        <entry key="$USER_HOME$/workspace/Android/TestDemo" value="true" />
+        <entry key="$USER_HOME$/workspace/Android/ai_stream_out" value="true" />
+        <entry key="$USER_HOME$/workspace/Android/ai_stream_out/AiStreamOutDemo" value="true" />
+        <entry key="$USER_HOME$/workspace/Android/float-window-android" value="true" />
+        <entry key="$USER_HOME$/workspace/Android/haomai_v0.0.1" value="true" />
+        <entry key="$USER_HOME$/workspace/Android/hostdemo" value="true" />
+        <entry key="$USER_HOME$/workspace/Android/multi-interaction-android" value="true" />
+        <entry key="$USER_HOME$/workspace/Android/native_app_multiinteraction_android" value="true" />
+        <entry key="$USER_HOME$/workspace/Android/native_app_xiaomei_android" value="true" />
+        <entry key="$USER_HOME$/workspace/Android/puppy-android" value="true" />
+        <entry key="$USER_HOME$/workspace/Markwon" value="true" />
+        <entry key="$USER_HOME$/workspace/VOIP/cs-android" value="true" />
+        <entry key="$USER_HOME$/workspace/VOIP/cs-android-pikesdk" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

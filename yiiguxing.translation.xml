@@ -1,0 +1,79 @@
+<application>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1754274443689" />
+  </component>
+  <component name="Translation.OpenAISettings">
+    <option name="OPEN_AI">
+      <open-ai>
+        <option name="ENDPOINT" value="https://api.chatanywhere.tech" />
+      </open-ai>
+    </option>
+  </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="CHINESE_SIMPLIFIED" />
+    <option name="translator" value="OPEN_AI" />
+  </component>
+  <component name="Translation.States">
+    <option name="translationDialogHeight" value="260" />
+    <option name="translationDialogLocationX" value="898" />
+    <option name="translationDialogLocationY" value="551" />
+    <histories>
+      <item value="Article" />
+      <item value="Do not place Android context classes in static fields (static reference to UploadImageBottomSheetHelper which has field activity pointing to Activity);" />
+      <item value="The CoroutineScope associated with this ViewModel. The CoroutineScope. coroutineContext is configured with: SupervisorJob: ensures children jobs can fail independently of each other. MainCoroutineDispatcher. immediate: executes jobs immediately on the main (UI) thread. If the Dispatchers. Main is not available on the current platform (e. g., Linux), we fallback to an EmptyCoroutineContext. This scope is automatically cancelled when the ViewModel is cleared, and can be replaced by using the ViewModel constructor overload that takes in a viewModelScope: CoroutineScope. For background execution, use kotlinx. coroutines. withContext to switch to appropriate dispatchers (e. g., kotlinx. coroutines. IO). See Also: ViewModel. onCleared" />
+      <item value="Thought" />
+      <item value="Automation" />
+      <item value="Application context aware ViewModel. Subclasses must have a constructor which accepts Application as the only parameter." />
+      <item value="Represents a triad of values There is no meaning attached to values in this class, it can be used for any purpose. Triple exhibits value semantics, i. e. two triples are equal if all three components are equal. An example of decomposing it into values: Params: A - type of the first value. B - type of the second value. C - type of the third value. Properties: first - First value. second - Second value. third - Third value." />
+      <item value="Represents a triad of values There is no meaning attached to values in this class, it can be used for any purpose. Triple exhibits value semantics, i. e. two triples are equal if all three components are equal. An example of decomposing it into values:" />
+      <item value="thought" />
+      <item value="Check if the socket is in a state where a reconnection attempt is needed" />
+      <item value="Optimized" />
+      <item value="article" />
+      <item value="square" />
+      <item value="Data class must have at least one primary constructor parameter" />
+      <item value="expiration" />
+      <item value="count down" />
+      <item value="2025-07-29 17:38:10.309 WindowManager com.tencent.mm com.tencent.mm android.view.WindowLeaked: Activity com.tencent.mm.plugin.wallet_index.ui.OrderHandlerUI has leaked window com.android.internal.policy.DecorView{db0b522 V.E...... R.....ID 0,0-864,385 aid=1073741827}[OrderHandlerUI] that was originally added here" />
+      <item value="Activity com.tencent.mm.plugin.wallet_index.ui.OrderHandlerUI has leaked window" />
+      <item value="guard" />
+      <item value="mtguard" />
+      <item value="mute" />
+      <item value="Unexpected tokens (use ';' to separate expressions on the same line)" />
+      <item value="Warning: SDK processing. This version only understands SDK XML versions up to 3 but an SDK XML file of version 4 was encountered. This can happen if you use versions of Android Studio and the command-line tools that were released at different times." />
+      <item value="Incompatibility between Android Studio and Android Gradle plugin This project is using Android Gradle plugin version 8.2.0-alpha01, which is incompatible with this version of Android Studio. To continue importing this project (puppy-android) Android Studio will upgrade the project's build files to use version 8.2.2 of Android Gradle plugin (see the release notes for more information). The following commands will be executed to upgrade your project from Android Gradle Plugin version 8.2.0-alpha01 to version 8.2.2:" />
+      <item value="The project is using an incompatible preview version (AGP 8.2.0-alpha01) of the Android Gradle plugin. Current compatible version is AGP 8.8.2." />
+      <item value="No executable code found at line 327 in class com. dianping. nvnetwork. NVGlobal" />
+      <item value="Present" />
+      <item value="Warning: Some processes are not showing because there is no debug information available for them. This may be due to other applications currently running, such as Intellij with the Android plugin, or another instance of Android Studio from a different channel (Beta or Canary). Please close these applications to ensure all processes are displayed.If no applications are running, try to disconnectreconnect the device and cycle adb server via `adb kill-server`." />
+      <item value="Absent" />
+      <item value="dispatch secondary init" />
+      <item value="Do not place Android context classes in static fields (static reference to FloatingLayerManager which has field mContext pointing to Context); this is a memory leak" />
+      <item value="Warning: This version only understands SDK XML versions up to 3 but an SDK XML file of version 4 was encountered. This can happen if you use versions of Android Studio and the command-line tools that were released at different times." />
+      <item value="Instrumentation" />
+      <item value="'getParams()' in 'com. meituan. xiaomei. android. home. LiveVoiceFloatService' clashes with 'getParams()' in 'android. content. ContextWrapper'; attempting to use incompatible return type" />
+      <item value="reply" />
+      <item value="Whole" />
+      <item value="Precise" />
+      <item value="Parsed" />
+      <item value="Adapter to display markdown in a RecyclerView. It is done by extracting root blocks from a parsed markdown document (via MarkwonReducer and rendering each block in a standalone RecyclerView entry. Provides ability to customize rendering of blocks. For example display certain blocks in a horizontal scrolling container or display tables in a specific widget designed for it (MarkwonAdapter. Builder. include(Class, MarkwonAdapter. Entry))." />
+      <item value="Entry" />
+      <item value="Fenced" />
+      <item value="Destination" />
+      <item value="Wrap" />
+      <item value="constraint" />
+      <item value="statistic info" />
+      <item value="Broadcast" />
+      <item value="share link generating" />
+      <item value="Gesture" />
+      <item value="Gestur" />
+      <item value="generate" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE_SIMPLIFIED" value="27" />
+        <entry key="ENGLISH" value="10" />
+      </map>
+    </option>
+  </component>
+</application>
