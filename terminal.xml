@@ -1,5 +1,0 @@
-<application>
-  <component name="BlockTerminalOptions">
-    <option name="promptStyle" value="SHELL" />
-  </component>
-</application>
