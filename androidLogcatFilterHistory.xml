@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:&quot;uploadImage&quot; | message:&quot;上传进度&quot; | message:”发布1上传媒体“" />
+    <option name="mostRecentlyUsed" value="message:&quot;updateInputModeUI&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="message:&quot;updateInputModeUI&quot;" />
+        <option value="message:&quot;uploadImage&quot; | message:&quot;上传进度&quot; | message:&quot;onResume: ---------&gt;&quot;" />
         <option value="message:&quot;uploadImage&quot; | message:&quot;上传进度&quot; | message:”发布1上传媒体“" />
         <option value="message:&quot;uploadImage&quot; | message:&quot;上传进度&quot;" />
         <option value="message:&quot;发布1上传媒体&quot; | message:&quot;上传进度&quot;" />
@@ -21,8 +23,6 @@
         <option value="message:&quot;onViewCreated: 看看这里&quot;" />
         <option value="message:&quot;local_set调用&quot;" />
         <option value="message:&quot;local_set调用--origin&quot;" />
-        <option value="message:&quot;onResume: -----------&gt;&quot;" />
-        <option value="level:error and package:mine " />
       </list>
     </option>
   </component>

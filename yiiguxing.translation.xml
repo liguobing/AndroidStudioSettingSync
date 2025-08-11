@@ -18,6 +18,7 @@
     <option name="translationDialogLocationX" value="898" />
     <option name="translationDialogLocationY" value="551" />
     <histories>
+      <item value="Do not place Android context classes in static fields (static reference to FloatingWindowManager which has field context pointing to Context); this is a memory leak" />
       <item value="Article" />
       <item value="Do not place Android context classes in static fields (static reference to UploadImageBottomSheetHelper which has field activity pointing to Activity);" />
       <item value="The CoroutineScope associated with this ViewModel. The CoroutineScope. coroutineContext is configured with: SupervisorJob: ensures children jobs can fail independently of each other. MainCoroutineDispatcher. immediate: executes jobs immediately on the main (UI) thread. If the Dispatchers. Main is not available on the current platform (e. g., Linux), we fallback to an EmptyCoroutineContext. This scope is automatically cancelled when the ViewModel is cleared, and can be replaced by using the ViewModel constructor overload that takes in a viewModelScope: CoroutineScope. For background execution, use kotlinx. coroutines. withContext to switch to appropriate dispatchers (e. g., kotlinx. coroutines. IO). See Also: ViewModel. onCleared" />
@@ -67,11 +68,10 @@
       <item value="share link generating" />
       <item value="Gesture" />
       <item value="Gestur" />
-      <item value="generate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE_SIMPLIFIED" value="27" />
+        <entry key="CHINESE_SIMPLIFIED" value="29" />
         <entry key="ENGLISH" value="10" />
       </map>
     </option>
