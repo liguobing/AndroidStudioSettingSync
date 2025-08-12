@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1754274443689" />
+    <option name="lastTrimTime" value="1754983618959" />
   </component>
   <component name="Translation.OpenAISettings">
     <option name="OPEN_AI">
@@ -18,6 +18,7 @@
     <option name="translationDialogLocationX" value="898" />
     <option name="translationDialogLocationY" value="551" />
     <histories>
+      <item value="role" />
       <item value="Do not place Android context classes in static fields (static reference to FloatingWindowManager which has field context pointing to Context); this is a memory leak" />
       <item value="Article" />
       <item value="Do not place Android context classes in static fields (static reference to UploadImageBottomSheetHelper which has field activity pointing to Activity);" />
@@ -67,7 +68,6 @@
       <item value="Broadcast" />
       <item value="share link generating" />
       <item value="Gesture" />
-      <item value="Gestur" />
     </histories>
     <option name="languageScores">
       <map>
