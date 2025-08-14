@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:&quot;puppy/user/&quot; | message:&quot;接口请求&quot; | message:&quot;UserIndexFragment&quot;" />
+    <option name="mostRecentlyUsed" value="message:&quot;parseView: 收到&quot; | message:&quot;parseView: -----&gt;&quot; | message:&quot;UserIndexFragment&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="message:&quot;parseView: 收到&quot; | message:&quot;parseView: -----&gt;&quot; | message:&quot;UserIndexFragment&quot;" />
+        <option value="message:&quot;parseView: 停止&quot; | message:&quot;parseView: -----&gt;&quot; | message:&quot;UserIndexFragment&quot;" />
+        <option value="message:&quot;parseView: 停止/&quot; | message:&quot;parseView: -----&gt;&quot; | message:&quot;UserIndexFragment&quot;" />
+        <option value="message:&quot;puppy/user/&quot; | message:&quot;parseView: -----&gt;&quot; | message:&quot;UserIndexFragment&quot;" />
         <option value="message:&quot;puppy/user/&quot; | message:&quot;接口请求&quot; | message:&quot;UserIndexFragment&quot;" />
         <option value="message:&quot;puppy/user/&quot; | message:&quot;接口请求&quot; | message:&quot;userinfo&quot;" />
         <option value="message:&quot;puppy/user/&quot; | message:&quot;Received message&quot; | message:&quot;userinfo&quot;" />
@@ -19,10 +23,6 @@
         <option value="message:&quot;uploadImage&quot; | message:&quot;上传进度&quot; | message:&quot;Tracking&quot;" />
         <option value="message:&quot;uploadImage&quot; | message:&quot;上传进度&quot; | message:&quot;startTracking&quot;" />
         <option value="message:&quot;uploadImage&quot; | message:&quot;上传进度&quot; | message:&quot;Tracking: -----&gt;&quot;" />
-        <option value="package:mine " />
-        <option value="message:&quot;updateInputModeUI&quot;" />
-        <option value="message:&quot;uploadImage&quot; | message:&quot;上传进度&quot; | message:&quot;onResume: ---------&gt;&quot;" />
-        <option value="message:&quot;uploadImage&quot; | message:&quot;上传进度&quot; | message:”发布1上传媒体“" />
       </list>
     </option>
   </component>
