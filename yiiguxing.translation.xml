@@ -18,6 +18,7 @@
     <option name="translationDialogLocationX" value="898" />
     <option name="translationDialogLocationY" value="551" />
     <histories>
+      <item value="send location task" />
       <item value="Configuration" />
       <item value="role" />
       <item value="Do not place Android context classes in static fields (static reference to FloatingWindowManager which has field context pointing to Context); this is a memory leak" />
@@ -67,7 +68,6 @@
       <item value="constraint" />
       <item value="statistic info" />
       <item value="Broadcast" />
-      <item value="share link generating" />
     </histories>
     <option name="languageScores">
       <map>

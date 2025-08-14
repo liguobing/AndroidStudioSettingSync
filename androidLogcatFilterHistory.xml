@@ -1,7 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="message:&quot;uploadImage&quot; | message:&quot;上传进度&quot; | message:&quot;Tracking&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="message:&quot;uploadImage&quot; | message:&quot;上传进度&quot; | message:&quot;Tracking&quot;" />
+        <option value="message:&quot;uploadImage&quot; | message:&quot;上传进度&quot; | message:&quot;startTracking&quot;" />
+        <option value="message:&quot;uploadImage&quot; | message:&quot;上传进度&quot; | message:&quot;Tracking: -----&gt;&quot;" />
         <option value="package:mine " />
         <option value="message:&quot;updateInputModeUI&quot;" />
         <option value="message:&quot;uploadImage&quot; | message:&quot;上传进度&quot; | message:&quot;onResume: ---------&gt;&quot;" />
@@ -19,9 +23,6 @@
         <option value="message:&quot;changeTab&quot;" />
         <option value="message:&quot;看看这里&quot;" />
         <option value="message:&quot;aloudItemClick&quot;" />
-        <option value="message:&quot;onSingleTapUp&quot;" />
-        <option value="message:&quot;onViewCreated: 看看这里&quot;" />
-        <option value="message:&quot;local_set调用&quot;" />
       </list>
     </option>
   </component>
