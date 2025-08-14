@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:&quot;uploadImage&quot; | message:&quot;请求异常&quot; | message:&quot;坐标parseView&quot;" />
+    <option name="mostRecentlyUsed" value="message:&quot;requestPost: -----&gt;&quot; | message:&quot;请求异常&quot; | message:&quot;坐标parseView&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="message:&quot;requestPost: -----&gt;&quot; | message:&quot;请求异常&quot; | message:&quot;坐标parseView&quot;" />
         <option value="message:&quot;uploadImage&quot; | message:&quot;请求异常&quot; | message:&quot;坐标parseView&quot;" />
         <option value="message:&quot;uploadImage&quot; | message:&quot;上传进度&quot; | message:&quot;坐标parseView&quot;" />
         <option value="message:&quot;uploadImage&quot; | message:&quot;上传进度&quot; | message:&quot;Latitude&quot;" />
@@ -22,7 +23,6 @@
         <option value="message:&quot;看看有没有&quot;" />
         <option value="message:&quot;uploadImage&quot;" />
         <option value="tag:&quot;前后台&quot;" />
-        <option value="message:&quot;接收到的位置&quot;" />
       </list>
     </option>
   </component>
