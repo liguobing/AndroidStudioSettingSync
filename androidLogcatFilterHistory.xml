@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:&quot;requestPost: -----&gt;&quot; | message:&quot;请求异常&quot; | message:&quot;userinfo&quot;" />
+    <option name="mostRecentlyUsed" value="message:&quot;requestPost: -----&gt;&quot; | message:&quot;123321123321&quot; | message:&quot;userinfo&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="message:&quot;requestPost: -----&gt;&quot; | message:&quot;123321123321&quot; | message:&quot;userinfo&quot;" />
         <option value="message:&quot;requestPost: -----&gt;&quot; | message:&quot;请求异常&quot; | message:&quot;userinfo&quot;" />
         <option value="message:&quot;requestPost: -----&gt;&quot; | message:&quot;请求异常&quot; | message:&quot;initView&quot;" />
         <option value="message:&quot;requestPost: -----&gt;&quot; | message:&quot;请求异常&quot; | message:&quot;坐标parseView&quot;" />
@@ -22,7 +23,6 @@
         <option value="message:&quot;onActivityResult&quot;" />
         <option value="message:&quot;parseView&quot;" />
         <option value="message:&quot;onActivityResultAboveL&quot;" />
-        <option value="message:&quot;看看有没有&quot;" />
       </list>
     </option>
   </component>
