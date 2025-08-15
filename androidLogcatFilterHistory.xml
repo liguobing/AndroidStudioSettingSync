@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:&quot;parseView: 收到&quot; | message:&quot;parseView: -----&gt;&quot; | message:&quot;UserIndexFragment&quot;" />
+    <option name="mostRecentlyUsed" value="message:&quot;parseView: 收到&quot; | message:&quot;parseView: -----&gt;&quot; | message:&quot;requestPostForm&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="message:&quot;parseView: 收到&quot; | message:&quot;parseView: -----&gt;&quot; | message:&quot;requestPostForm&quot;" />
         <option value="message:&quot;parseView: 收到&quot; | message:&quot;parseView: -----&gt;&quot; | message:&quot;UserIndexFragment&quot;" />
         <option value="message:&quot;parseView: 停止&quot; | message:&quot;parseView: -----&gt;&quot; | message:&quot;UserIndexFragment&quot;" />
         <option value="message:&quot;parseView: 停止/&quot; | message:&quot;parseView: -----&gt;&quot; | message:&quot;UserIndexFragment&quot;" />
@@ -22,7 +23,6 @@
         <option value="message:&quot;uploadImage&quot; | message:&quot;上传进度&quot; | message:&quot;Latitude&quot;" />
         <option value="message:&quot;uploadImage&quot; | message:&quot;上传进度&quot; | message:&quot;Tracking&quot;" />
         <option value="message:&quot;uploadImage&quot; | message:&quot;上传进度&quot; | message:&quot;startTracking&quot;" />
-        <option value="message:&quot;uploadImage&quot; | message:&quot;上传进度&quot; | message:&quot;Tracking: -----&gt;&quot;" />
       </list>
     </option>
   </component>
