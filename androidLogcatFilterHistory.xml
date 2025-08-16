@@ -1,9 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:&quot;parseView: &quot; | message:&quot;parseView: -----&gt;&quot; | message:&quot;requestPostForm&quot;" />
+    <option name="mostRecentlyUsed" value="message:&quot;onEvent: -------&gt;&quot;" />
     <option name="nonFavorites">
       <list>
         <option value="message:&quot;parseView: &quot; | message:&quot;parseView: -----&gt;&quot; | message:&quot;requestPostForm&quot;" />
+        <option value="message:&quot;onEvent: -------&gt;&quot;" />
+        <option value="message:&quot;onBackground&quot;" />
+        <option value="tag:&quot;LiveVoiceForegroundService&quot;" />
+        <option value="message:&quot;onStartCommand&quot;" />
+        <option value="tag:&quot;TTTT&quot;" />
         <option value="message:&quot;parseView: 收到&quot; | message:&quot;parseView: -----&gt;&quot; | message:&quot;requestPostForm&quot;" />
         <option value="message:&quot;parseView: 收到&quot; | message:&quot;parseView: -----&gt;&quot; | message:&quot;UserIndexFragment&quot;" />
         <option value="message:&quot;parseView: 停止&quot; | message:&quot;parseView: -----&gt;&quot; | message:&quot;UserIndexFragment&quot;" />
@@ -18,11 +23,6 @@
         <option value="message:&quot;requestPost: -----&gt;&quot; | message:&quot;123321123321&quot; | message:&quot;userinfo&quot;" />
         <option value="message:&quot;requestPost: -----&gt;&quot; | message:&quot;请求异常&quot; | message:&quot;userinfo&quot;" />
         <option value="message:&quot;requestPost: -----&gt;&quot; | message:&quot;请求异常&quot; | message:&quot;initView&quot;" />
-        <option value="message:&quot;requestPost: -----&gt;&quot; | message:&quot;请求异常&quot; | message:&quot;坐标parseView&quot;" />
-        <option value="message:&quot;uploadImage&quot; | message:&quot;请求异常&quot; | message:&quot;坐标parseView&quot;" />
-        <option value="message:&quot;uploadImage&quot; | message:&quot;上传进度&quot; | message:&quot;坐标parseView&quot;" />
-        <option value="message:&quot;uploadImage&quot; | message:&quot;上传进度&quot; | message:&quot;Latitude&quot;" />
-        <option value="message:&quot;uploadImage&quot; | message:&quot;上传进度&quot; | message:&quot;Tracking&quot;" />
       </list>
     </option>
   </component>

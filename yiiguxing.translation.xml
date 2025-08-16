@@ -18,6 +18,8 @@
     <option name="translationDialogLocationX" value="898" />
     <option name="translationDialogLocationY" value="551" />
     <histories>
+      <item value="CONTRACT" />
+      <item value="Contract" />
       <item value="send location task" />
       <item value="Configuration" />
       <item value="role" />
@@ -66,8 +68,6 @@
       <item value="Destination" />
       <item value="Wrap" />
       <item value="constraint" />
-      <item value="statistic info" />
-      <item value="Broadcast" />
     </histories>
     <option name="languageScores">
       <map>
