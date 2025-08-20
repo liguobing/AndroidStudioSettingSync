@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1754983618959" />
+    <option name="lastTrimTime" value="1755501549824" />
   </component>
   <component name="Translation.OpenAISettings">
     <option name="OPEN_AI">
@@ -18,6 +18,10 @@
     <option name="translationDialogLocationX" value="898" />
     <option name="translationDialogLocationY" value="551" />
     <histories>
+      <item value="Updates were rejected because a pushed branch tip is behind its remote" />
+      <item value="combined" />
+      <item value="ARROW" />
+      <item value="crash" />
       <item value="CONTRACT" />
       <item value="Contract" />
       <item value="send location task" />
@@ -64,10 +68,6 @@
       <item value="Parsed" />
       <item value="Adapter to display markdown in a RecyclerView. It is done by extracting root blocks from a parsed markdown document (via MarkwonReducer and rendering each block in a standalone RecyclerView entry. Provides ability to customize rendering of blocks. For example display certain blocks in a horizontal scrolling container or display tables in a specific widget designed for it (MarkwonAdapter. Builder. include(Class, MarkwonAdapter. Entry))." />
       <item value="Entry" />
-      <item value="Fenced" />
-      <item value="Destination" />
-      <item value="Wrap" />
-      <item value="constraint" />
     </histories>
     <option name="languageScores">
       <map>

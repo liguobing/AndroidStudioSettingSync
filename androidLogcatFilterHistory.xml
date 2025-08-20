@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:&quot;onEvent: -------&gt;&quot;" />
+    <option name="mostRecentlyUsed" value="message:&quot;parseView&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="message:&quot;parseView&quot;" />
+        <option value="level:error " />
+        <option value="message:&quot;share2Wx&quot;" />
+        <option value="tag:&quot;share2Wx&quot;" />
+        <option value="package:mine " />
+        <option value="message:&quot;Received ANY Socket&quot;" />
+        <option value="message:&quot;showContractWindow&quot;" />
+        <option value="tag:" />
+        <option value="message:&quot;showContractWindow: ----&gt;&quot;" />
+        <option value="tag:&quot;TTTT&quot;" />
         <option value="message:&quot;parseView: &quot; | message:&quot;parseView: -----&gt;&quot; | message:&quot;requestPostForm&quot;" />
         <option value="message:&quot;onEvent: -------&gt;&quot;" />
         <option value="message:&quot;onBackground&quot;" />
         <option value="tag:&quot;LiveVoiceForegroundService&quot;" />
         <option value="message:&quot;onStartCommand&quot;" />
-        <option value="tag:&quot;TTTT&quot;" />
         <option value="message:&quot;parseView: 收到&quot; | message:&quot;parseView: -----&gt;&quot; | message:&quot;requestPostForm&quot;" />
         <option value="message:&quot;parseView: 收到&quot; | message:&quot;parseView: -----&gt;&quot; | message:&quot;UserIndexFragment&quot;" />
         <option value="message:&quot;parseView: 停止&quot; | message:&quot;parseView: -----&gt;&quot; | message:&quot;UserIndexFragment&quot;" />
         <option value="message:&quot;parseView: 停止/&quot; | message:&quot;parseView: -----&gt;&quot; | message:&quot;UserIndexFragment&quot;" />
         <option value="message:&quot;puppy/user/&quot; | message:&quot;parseView: -----&gt;&quot; | message:&quot;UserIndexFragment&quot;" />
-        <option value="message:&quot;puppy/user/&quot; | message:&quot;接口请求&quot; | message:&quot;UserIndexFragment&quot;" />
-        <option value="message:&quot;puppy/user/&quot; | message:&quot;接口请求&quot; | message:&quot;userinfo&quot;" />
-        <option value="message:&quot;puppy/user/&quot; | message:&quot;Received message&quot; | message:&quot;userinfo&quot;" />
-        <option value="message:&quot;收到消息&quot; | message:&quot;Received message&quot; | message:&quot;userinfo&quot;" />
-        <option value="message:&quot;EventBus Example&quot; | message:&quot;Received message&quot; | message:&quot;userinfo&quot;" />
-        <option value="message:&quot;EventBus Example&quot; | message:&quot;123321123321&quot; | message:&quot;userinfo&quot;" />
-        <option value="message:&quot;requestPost: -----&gt;&quot; | message:&quot;123321123321&quot; | message:&quot;userinfo&quot;" />
-        <option value="message:&quot;requestPost: -----&gt;&quot; | message:&quot;请求异常&quot; | message:&quot;userinfo&quot;" />
-        <option value="message:&quot;requestPost: -----&gt;&quot; | message:&quot;请求异常&quot; | message:&quot;initView&quot;" />
       </list>
     </option>
   </component>
