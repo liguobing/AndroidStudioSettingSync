@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:&quot;parseView&quot;" />
+    <option name="mostRecentlyUsed" value="message:&quot;onPageFinished--url&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="message:&quot;onPageFinished--url&quot;" />
+        <option value="message:&quot;RenderFragment&quot;" />
         <option value="message:&quot;parseView&quot;" />
         <option value="level:error " />
         <option value="message:&quot;share2Wx&quot;" />
@@ -21,8 +23,6 @@
         <option value="message:&quot;parseView: 收到&quot; | message:&quot;parseView: -----&gt;&quot; | message:&quot;requestPostForm&quot;" />
         <option value="message:&quot;parseView: 收到&quot; | message:&quot;parseView: -----&gt;&quot; | message:&quot;UserIndexFragment&quot;" />
         <option value="message:&quot;parseView: 停止&quot; | message:&quot;parseView: -----&gt;&quot; | message:&quot;UserIndexFragment&quot;" />
-        <option value="message:&quot;parseView: 停止/&quot; | message:&quot;parseView: -----&gt;&quot; | message:&quot;UserIndexFragment&quot;" />
-        <option value="message:&quot;puppy/user/&quot; | message:&quot;parseView: -----&gt;&quot; | message:&quot;UserIndexFragment&quot;" />
       </list>
     </option>
   </component>
