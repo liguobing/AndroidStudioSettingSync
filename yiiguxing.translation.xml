@@ -18,6 +18,7 @@
     <option name="translationDialogLocationX" value="898" />
     <option name="translationDialogLocationY" value="551" />
     <histories>
+      <item value="remain" />
       <item value="path pattern" />
       <item value="Updates were rejected because a pushed branch tip is behind its remote" />
       <item value="combined" />
@@ -67,7 +68,6 @@
       <item value="Whole" />
       <item value="Precise" />
       <item value="Parsed" />
-      <item value="Adapter to display markdown in a RecyclerView. It is done by extracting root blocks from a parsed markdown document (via MarkwonReducer and rendering each block in a standalone RecyclerView entry. Provides ability to customize rendering of blocks. For example display certain blocks in a horizontal scrolling container or display tables in a specific widget designed for it (MarkwonAdapter. Builder. include(Class, MarkwonAdapter. Entry))." />
     </histories>
     <option name="languageScores">
       <map>
