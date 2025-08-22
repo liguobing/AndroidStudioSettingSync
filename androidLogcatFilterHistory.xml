@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:&quot;onPageFinished--url&quot;" />
+    <option name="mostRecentlyUsed" value="tag:&quot;yylog&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:&quot;yylog&quot;" />
+        <option value="package:mine and level:error " />
+        <option value="package:mine" />
         <option value="message:&quot;onPageFinished--url&quot;" />
         <option value="message:&quot;RenderFragment&quot;" />
         <option value="message:&quot;parseView&quot;" />
@@ -20,9 +23,6 @@
         <option value="message:&quot;onBackground&quot;" />
         <option value="tag:&quot;LiveVoiceForegroundService&quot;" />
         <option value="message:&quot;onStartCommand&quot;" />
-        <option value="message:&quot;parseView: 收到&quot; | message:&quot;parseView: -----&gt;&quot; | message:&quot;requestPostForm&quot;" />
-        <option value="message:&quot;parseView: 收到&quot; | message:&quot;parseView: -----&gt;&quot; | message:&quot;UserIndexFragment&quot;" />
-        <option value="message:&quot;parseView: 停止&quot; | message:&quot;parseView: -----&gt;&quot; | message:&quot;UserIndexFragment&quot;" />
       </list>
     </option>
   </component>
