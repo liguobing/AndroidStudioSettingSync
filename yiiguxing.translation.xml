@@ -18,6 +18,7 @@
     <option name="translationDialogLocationX" value="898" />
     <option name="translationDialogLocationY" value="551" />
     <histories>
+      <item value="Collapse" />
       <item value="remain" />
       <item value="path pattern" />
       <item value="Updates were rejected because a pushed branch tip is behind its remote" />
@@ -67,7 +68,6 @@
       <item value="reply" />
       <item value="Whole" />
       <item value="Precise" />
-      <item value="Parsed" />
     </histories>
     <option name="languageScores">
       <map>
