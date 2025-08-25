@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="message:&quot;updateLastMessageSubTaskContent&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="message:&quot;updateLastMessageSubTaskContent&quot;" />
         <option value="level:error " />
         <option value="tag:&quot;LGB&quot;" />
         <option value="tag:&quot;SseClient&quot;" />
@@ -22,7 +23,6 @@
         <option value="tag:" />
         <option value="message:&quot;showContractWindow: ----&gt;&quot;" />
         <option value="tag:&quot;TTTT&quot;" />
-        <option value="message:&quot;parseView: &quot; | message:&quot;parseView: -----&gt;&quot; | message:&quot;requestPostForm&quot;" />
       </list>
     </option>
   </component>
