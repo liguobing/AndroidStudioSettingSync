@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:&quot;FuseDemo&quot;" />
+    <option name="mostRecentlyUsed" value="tag:&quot;LGB&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:&quot;LGB&quot;" />
+        <option value="tag:&quot;SseClient&quot;" />
+        <option value="package:mine " />
+        <option value="message:&quot;输出中&quot;" />
         <option value="tag:&quot;FuseDemo&quot;" />
         <option value="tag:&quot;yylog&quot;" />
         <option value="package:mine and level:error " />
@@ -13,16 +17,12 @@
         <option value="level:error " />
         <option value="message:&quot;share2Wx&quot;" />
         <option value="tag:&quot;share2Wx&quot;" />
-        <option value="package:mine " />
         <option value="message:&quot;Received ANY Socket&quot;" />
         <option value="message:&quot;showContractWindow&quot;" />
         <option value="tag:" />
         <option value="message:&quot;showContractWindow: ----&gt;&quot;" />
         <option value="tag:&quot;TTTT&quot;" />
         <option value="message:&quot;parseView: &quot; | message:&quot;parseView: -----&gt;&quot; | message:&quot;requestPostForm&quot;" />
-        <option value="message:&quot;onEvent: -------&gt;&quot;" />
-        <option value="message:&quot;onBackground&quot;" />
-        <option value="tag:&quot;LiveVoiceForegroundService&quot;" />
       </list>
     </option>
   </component>
