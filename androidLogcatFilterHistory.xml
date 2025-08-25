@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:&quot;yylog&quot;" />
+    <option name="mostRecentlyUsed" value="tag:&quot;FuseDemo&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:&quot;FuseDemo&quot;" />
         <option value="tag:&quot;yylog&quot;" />
         <option value="package:mine and level:error " />
         <option value="package:mine" />
@@ -22,7 +23,6 @@
         <option value="message:&quot;onEvent: -------&gt;&quot;" />
         <option value="message:&quot;onBackground&quot;" />
         <option value="tag:&quot;LiveVoiceForegroundService&quot;" />
-        <option value="message:&quot;onStartCommand&quot;" />
       </list>
     </option>
   </component>
