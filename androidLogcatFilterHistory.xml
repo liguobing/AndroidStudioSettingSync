@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:&quot;LGB&quot;" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="tag:&quot;LGB&quot;" />
         <option value="tag:&quot;SseClient&quot;" />
         <option value="package:mine " />
@@ -14,7 +15,6 @@
         <option value="message:&quot;onPageFinished--url&quot;" />
         <option value="message:&quot;RenderFragment&quot;" />
         <option value="message:&quot;parseView&quot;" />
-        <option value="level:error " />
         <option value="message:&quot;share2Wx&quot;" />
         <option value="tag:&quot;share2Wx&quot;" />
         <option value="message:&quot;Received ANY Socket&quot;" />
