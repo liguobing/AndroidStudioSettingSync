@@ -4,6 +4,9 @@
     <option name="nonFavorites">
       <list>
         <option value="message:&quot;updateLastMessageSubTaskContent&quot;" />
+        <option value="message:&quot;SseClient event collected&quot;" />
+        <option value="message:&quot;Received SSE event:&quot;" />
+        <option value="message:&quot;SseClient&quot;" />
         <option value="level:error " />
         <option value="tag:&quot;LGB&quot;" />
         <option value="tag:&quot;SseClient&quot;" />
@@ -20,9 +23,6 @@
         <option value="tag:&quot;share2Wx&quot;" />
         <option value="message:&quot;Received ANY Socket&quot;" />
         <option value="message:&quot;showContractWindow&quot;" />
-        <option value="tag:" />
-        <option value="message:&quot;showContractWindow: ----&gt;&quot;" />
-        <option value="tag:&quot;TTTT&quot;" />
       </list>
     </option>
   </component>
