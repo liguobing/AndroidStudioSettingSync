@@ -18,6 +18,8 @@
     <option name="translationDialogLocationX" value="898" />
     <option name="translationDialogLocationY" value="551" />
     <histories>
+      <item value="is blank" />
+      <item value="Returns true if this char sequence is empty or consists solely of whitespace characters according to Char. isWhitespace." />
       <item value="INFO KEY AUDIO PACKET DATA" />
       <item value="Collapse" />
       <item value="remain" />
@@ -66,8 +68,6 @@
       <item value="Warning: This version only understands SDK XML versions up to 3 but an SDK XML file of version 4 was encountered. This can happen if you use versions of Android Studio and the command-line tools that were released at different times." />
       <item value="Instrumentation" />
       <item value="'getParams()' in 'com. meituan. xiaomei. android. home. LiveVoiceFloatService' clashes with 'getParams()' in 'android. content. ContextWrapper'; attempting to use incompatible return type" />
-      <item value="reply" />
-      <item value="Whole" />
     </histories>
     <option name="languageScores">
       <map>
