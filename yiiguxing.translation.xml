@@ -18,6 +18,10 @@
     <option name="translationDialogLocationX" value="898" />
     <option name="translationDialogLocationY" value="551" />
     <histories>
+      <item value="Conflicting overloads: public final fun getVoiceName(): String defined in com. meituan. ai. multiinteraction. demo. constants. ConversationConfig, public final fun getVoiceName(): String defined in com. meituan. ai. multiinteraction. demo. constants. ConversationConfi" />
+      <item value="recog callback" />
+      <item value="receive" />
+      <item value="Overtime" />
       <item value="is blank" />
       <item value="Returns true if this char sequence is empty or consists solely of whitespace characters according to Char. isWhitespace." />
       <item value="INFO KEY AUDIO PACKET DATA" />
@@ -64,14 +68,10 @@
       <item value="Warning: Some processes are not showing because there is no debug information available for them. This may be due to other applications currently running, such as Intellij with the Android plugin, or another instance of Android Studio from a different channel (Beta or Canary). Please close these applications to ensure all processes are displayed.If no applications are running, try to disconnectreconnect the device and cycle adb server via `adb kill-server`." />
       <item value="Absent" />
       <item value="dispatch secondary init" />
-      <item value="Do not place Android context classes in static fields (static reference to FloatingLayerManager which has field mContext pointing to Context); this is a memory leak" />
-      <item value="Warning: This version only understands SDK XML versions up to 3 but an SDK XML file of version 4 was encountered. This can happen if you use versions of Android Studio and the command-line tools that were released at different times." />
-      <item value="Instrumentation" />
-      <item value="'getParams()' in 'com. meituan. xiaomei. android. home. LiveVoiceFloatService' clashes with 'getParams()' in 'android. content. ContextWrapper'; attempting to use incompatible return type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE_SIMPLIFIED" value="29" />
+        <entry key="CHINESE_SIMPLIFIED" value="30" />
         <entry key="ENGLISH" value="10" />
       </map>
     </option>

@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:&quot;updateLastMessageSubTaskContent&quot;" />
+    <option name="mostRecentlyUsed" value="deleteMessage,onFailed:" />
     <option name="nonFavorites">
       <list>
+        <option value="deleteMessage,onFailed:" />
+        <option value="level:error and package:mine " />
+        <option value="level:error and level:error " />
         <option value="message:&quot;updateLastMessageSubTaskContent&quot;" />
         <option value="message:&quot;SseClient event collected&quot;" />
         <option value="message:&quot;Received SSE event:&quot;" />
@@ -20,9 +23,6 @@
         <option value="message:&quot;RenderFragment&quot;" />
         <option value="message:&quot;parseView&quot;" />
         <option value="message:&quot;share2Wx&quot;" />
-        <option value="tag:&quot;share2Wx&quot;" />
-        <option value="message:&quot;Received ANY Socket&quot;" />
-        <option value="message:&quot;showContractWindow&quot;" />
       </list>
     </option>
   </component>
