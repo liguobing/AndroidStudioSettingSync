@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="deleteMessage,onFailed:" />
+    <option name="mostRecentlyUsed" value="setupLocalVideo | setLocalVideoView" />
     <option name="nonFavorites">
       <list>
+        <option value="setupLocalVideo | setLocalVideoView" />
+        <option value="setupLocalVideo" />
+        <option value="provideLocalView" />
+        <option value="setupLocalVideo()" />
         <option value="deleteMessage,onFailed:" />
         <option value="level:error and package:mine " />
         <option value="level:error and level:error " />
@@ -19,10 +23,6 @@
         <option value="tag:&quot;yylog&quot;" />
         <option value="package:mine and level:error " />
         <option value="package:mine" />
-        <option value="message:&quot;onPageFinished--url&quot;" />
-        <option value="message:&quot;RenderFragment&quot;" />
-        <option value="message:&quot;parseView&quot;" />
-        <option value="message:&quot;share2Wx&quot;" />
       </list>
     </option>
   </component>
