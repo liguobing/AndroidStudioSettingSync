@@ -18,6 +18,7 @@
     <option name="translationDialogLocationX" value="898" />
     <option name="translationDialogLocationY" value="551" />
     <histories>
+      <item value="expand" />
       <item value="Synthesis" />
       <item value="TRANSPORT CELLULAR" />
       <item value="Conflicting overloads: public final fun getVoiceName(): String defined in com. meituan. ai. multiinteraction. demo. constants. ConversationConfig, public final fun getVoiceName(): String defined in com. meituan. ai. multiinteraction. demo. constants. ConversationConfi" />
@@ -67,7 +68,6 @@
       <item value="The project is using an incompatible preview version (AGP 8.2.0-alpha01) of the Android Gradle plugin. Current compatible version is AGP 8.8.2." />
       <item value="No executable code found at line 327 in class com. dianping. nvnetwork. NVGlobal" />
       <item value="Present" />
-      <item value="Warning: Some processes are not showing because there is no debug information available for them. This may be due to other applications currently running, such as Intellij with the Android plugin, or another instance of Android Studio from a different channel (Beta or Canary). Please close these applications to ensure all processes are displayed.If no applications are running, try to disconnectreconnect the device and cycle adb server via `adb kill-server`." />
     </histories>
     <option name="languageScores">
       <map>
