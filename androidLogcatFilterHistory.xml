@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error and package:mine " />
+    <option name="mostRecentlyUsed" value="建立会话失败" />
     <option name="nonFavorites">
       <list>
+        <option value="建立会话失败" />
         <option value="level:error and package:mine " />
         <option value="level:error " />
         <option value="setupLocalVideo | setLocalVideoView" />
@@ -22,7 +23,6 @@
         <option value="tag:&quot;FuseDemo&quot;" />
         <option value="tag:&quot;yylog&quot;" />
         <option value="package:mine and level:error " />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
