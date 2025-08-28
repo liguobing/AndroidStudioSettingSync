@@ -1,20 +1,20 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="setupLocalVideo | setLocalVideoView" />
+    <option name="mostRecentlyUsed" value="level:error and package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error and package:mine " />
+        <option value="level:error " />
         <option value="setupLocalVideo | setLocalVideoView" />
         <option value="setupLocalVideo" />
         <option value="provideLocalView" />
         <option value="setupLocalVideo()" />
         <option value="deleteMessage,onFailed:" />
-        <option value="level:error and package:mine " />
         <option value="level:error and level:error " />
         <option value="message:&quot;updateLastMessageSubTaskContent&quot;" />
         <option value="message:&quot;SseClient event collected&quot;" />
         <option value="message:&quot;Received SSE event:&quot;" />
         <option value="message:&quot;SseClient&quot;" />
-        <option value="level:error " />
         <option value="tag:&quot;LGB&quot;" />
         <option value="tag:&quot;SseClient&quot;" />
         <option value="package:mine " />
