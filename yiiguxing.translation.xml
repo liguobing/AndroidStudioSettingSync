@@ -18,10 +18,16 @@
     <option name="translationDialogLocationX" value="898" />
     <option name="translationDialogLocationY" value="551" />
     <histories>
+      <item value="Synthesis" />
+      <item value="INITIALIZED" />
+      <item value="recall" />
+      <item value="re call" />
+      <item value="CELLULAR" />
+      <item value="Embed" />
+      <item value="getEmbedVoiceNameForNet not find by sampleRateConvertList" />
       <item value="remote" />
       <item value="Actual" />
       <item value="expand" />
-      <item value="Synthesis" />
       <item value="TRANSPORT CELLULAR" />
       <item value="Conflicting overloads: public final fun getVoiceName(): String defined in com. meituan. ai. multiinteraction. demo. constants. ConversationConfig, public final fun getVoiceName(): String defined in com. meituan. ai. multiinteraction. demo. constants. ConversationConfi" />
       <item value="recog callback" />
@@ -62,16 +68,10 @@
       <item value="2025-07-29 17:38:10.309 WindowManager com.tencent.mm com.tencent.mm android.view.WindowLeaked: Activity com.tencent.mm.plugin.wallet_index.ui.OrderHandlerUI has leaked window com.android.internal.policy.DecorView{db0b522 V.E...... R.....ID 0,0-864,385 aid=1073741827}[OrderHandlerUI] that was originally added here" />
       <item value="Activity com.tencent.mm.plugin.wallet_index.ui.OrderHandlerUI has leaked window" />
       <item value="guard" />
-      <item value="mtguard" />
-      <item value="mute" />
-      <item value="Unexpected tokens (use ';' to separate expressions on the same line)" />
-      <item value="Warning: SDK processing. This version only understands SDK XML versions up to 3 but an SDK XML file of version 4 was encountered. This can happen if you use versions of Android Studio and the command-line tools that were released at different times." />
-      <item value="Incompatibility between Android Studio and Android Gradle plugin This project is using Android Gradle plugin version 8.2.0-alpha01, which is incompatible with this version of Android Studio. To continue importing this project (puppy-android) Android Studio will upgrade the project's build files to use version 8.2.2 of Android Gradle plugin (see the release notes for more information). The following commands will be executed to upgrade your project from Android Gradle Plugin version 8.2.0-alpha01 to version 8.2.2:" />
-      <item value="The project is using an incompatible preview version (AGP 8.2.0-alpha01) of the Android Gradle plugin. Current compatible version is AGP 8.8.2." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE_SIMPLIFIED" value="30" />
+        <entry key="CHINESE_SIMPLIFIED" value="31" />
         <entry key="ENGLISH" value="10" />
       </map>
     </option>
