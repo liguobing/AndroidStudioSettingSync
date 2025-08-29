@@ -18,6 +18,7 @@
     <option name="translationDialogLocationX" value="898" />
     <option name="translationDialogLocationY" value="551" />
     <histories>
+      <item value="send establish message" />
       <item value="Synthesis" />
       <item value="INITIALIZED" />
       <item value="recall" />
@@ -67,7 +68,6 @@
       <item value="count down" />
       <item value="2025-07-29 17:38:10.309 WindowManager com.tencent.mm com.tencent.mm android.view.WindowLeaked: Activity com.tencent.mm.plugin.wallet_index.ui.OrderHandlerUI has leaked window com.android.internal.policy.DecorView{db0b522 V.E...... R.....ID 0,0-864,385 aid=1073741827}[OrderHandlerUI] that was originally added here" />
       <item value="Activity com.tencent.mm.plugin.wallet_index.ui.OrderHandlerUI has leaked window" />
-      <item value="guard" />
     </histories>
     <option name="languageScores">
       <map>
