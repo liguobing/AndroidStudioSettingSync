@@ -1,13 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:&quot;TTT&quot;" />
+    <option name="mostRecentlyUsed" value="level:error and package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="level:error and package:mine " />
+        <option value="level:error " />
         <option value="tag:&quot;TTT&quot;" />
         <option value="deleteMessage,onFailed:" />
         <option value="建立会话失败" />
-        <option value="level:error and package:mine " />
-        <option value="level:error " />
         <option value="setupLocalVideo | setLocalVideoView" />
         <option value="setupLocalVideo" />
         <option value="provideLocalView" />
@@ -19,7 +20,6 @@
         <option value="message:&quot;SseClient&quot;" />
         <option value="tag:&quot;LGB&quot;" />
         <option value="tag:&quot;SseClient&quot;" />
-        <option value="package:mine " />
         <option value="message:&quot;输出中&quot;" />
         <option value="tag:&quot;FuseDemo&quot;" />
         <option value="tag:&quot;yylog&quot;" />
