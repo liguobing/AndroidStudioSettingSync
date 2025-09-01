@@ -18,10 +18,10 @@
     <option name="translationDialogLocationX" value="898" />
     <option name="translationDialogLocationY" value="551" />
     <histories>
+      <item value="Synthesis" />
       <item value="This project is configured to use an older Gradle JVM that supports up to version 1.8 but the current AGP requires a Gradle JVM that supports version 11." />
       <item value="max connection count reached." />
       <item value="send establish message" />
-      <item value="Synthesis" />
       <item value="INITIALIZED" />
       <item value="recall" />
       <item value="re call" />
