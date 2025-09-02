@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:&quot;FuseTTSInitJsHandler&quot;" />
+    <option name="mostRecentlyUsed" value="tag:&quot;sseclient&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:&quot;sseclient&quot;" />
+        <option value="tag:&quot;悬浮窗&quot;" />
         <option value="tag:&quot;FuseTTSInitJsHandler&quot;" />
         <option value="package:mine " />
         <option value="package:mine and level:error " />
@@ -21,8 +23,6 @@
         <option value="message:&quot;Received SSE event:&quot;" />
         <option value="message:&quot;SseClient&quot;" />
         <option value="tag:&quot;LGB&quot;" />
-        <option value="tag:&quot;SseClient&quot;" />
-        <option value="message:&quot;输出中&quot;" />
       </list>
     </option>
   </component>
