@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="tag:&quot;FuseTTSInitJsHandler&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:&quot;FuseTTSInitJsHandler&quot;" />
         <option value="package:mine " />
+        <option value="package:mine and level:error " />
         <option value="level:error and package:mine " />
         <option value="level:error " />
         <option value="tag:&quot;TTT&quot;" />
@@ -20,8 +23,6 @@
         <option value="tag:&quot;LGB&quot;" />
         <option value="tag:&quot;SseClient&quot;" />
         <option value="message:&quot;输出中&quot;" />
-        <option value="tag:&quot;FuseDemo&quot;" />
-        <option value="tag:&quot;yylog&quot;" />
       </list>
     </option>
   </component>
