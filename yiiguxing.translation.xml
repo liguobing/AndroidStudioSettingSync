@@ -18,6 +18,7 @@
     <option name="translationDialogLocationX" value="898" />
     <option name="translationDialogLocationY" value="551" />
     <histories>
+      <item value="On failure, print an error and resume with null." />
       <item value="Check your module classpath for missing or conflicting dependencies" />
       <item value="Synthesis" />
       <item value="This project is configured to use an older Gradle JVM that supports up to version 1.8 but the current AGP requires a Gradle JVM that supports version 11." />
@@ -67,7 +68,6 @@
       <item value="article" />
       <item value="square" />
       <item value="Data class must have at least one primary constructor parameter" />
-      <item value="expiration" />
     </histories>
     <option name="languageScores">
       <map>
