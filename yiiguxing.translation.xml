@@ -18,6 +18,10 @@
     <option name="translationDialogLocationX" value="898" />
     <option name="translationDialogLocationY" value="551" />
     <histories>
+      <item value="Proto" />
+      <item value="HANGUP" />
+      <item value="reason" />
+      <item value="INVITE" />
       <item value="On failure, print an error and resume with null." />
       <item value="Check your module classpath for missing or conflicting dependencies" />
       <item value="Synthesis" />
@@ -64,10 +68,6 @@
       <item value="Represents a triad of values There is no meaning attached to values in this class, it can be used for any purpose. Triple exhibits value semantics, i. e. two triples are equal if all three components are equal. An example of decomposing it into values:" />
       <item value="thought" />
       <item value="Check if the socket is in a state where a reconnection attempt is needed" />
-      <item value="Optimized" />
-      <item value="article" />
-      <item value="square" />
-      <item value="Data class must have at least one primary constructor parameter" />
     </histories>
     <option name="languageScores">
       <map>

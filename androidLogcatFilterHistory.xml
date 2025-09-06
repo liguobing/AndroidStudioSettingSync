@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:&quot;TTS初始化&quot;" />
+    <option name="mostRecentlyUsed" value="message:&quot;onTouchEvent&quot;" />
     <option name="nonFavorites">
       <list>
-        <option value="tag:&quot;悬浮窗&quot;" />
-        <option value="tag:&quot;TTS初始化&quot;" />
-        <option value="tag:&quot;sseclient&quot;" />
-        <option value="tag:&quot;FuseTTSInitJsHandler&quot;" />
-        <option value="package:mine " />
-        <option value="package:mine and level:error " />
         <option value="level:error and package:mine " />
-        <option value="level:error " />
-        <option value="tag:&quot;TTT&quot;" />
-        <option value="deleteMessage,onFailed:" />
-        <option value="建立会话失败" />
-        <option value="setupLocalVideo | setLocalVideoView" />
-        <option value="setupLocalVideo" />
-        <option value="provideLocalView" />
-        <option value="setupLocalVideo()" />
-        <option value="level:error and level:error " />
-        <option value="message:&quot;updateLastMessageSubTaskContent&quot;" />
-        <option value="message:&quot;SseClient event collected&quot;" />
-        <option value="message:&quot;Received SSE event:&quot;" />
-        <option value="message:&quot;SseClient&quot;" />
+        <option value="message:&quot;onTouchEvent&quot;" />
+        <option value="tag:&quot;SseClient&quot; | tag:&quot;SocketManager&quot;" />
+        <option value="message:&quot;onProto method&quot; | tag:&quot;123321&quot;" />
+        <option value="&quot;onProto method&quot; | tag:&quot;123321 &quot;" />
+        <option value="&quot;onProto method&quot;" />
+        <option value="onCallBye" />
+        <option value="tag:&quot;关注&quot;" />
+        <option value="message:&quot;fetchChatHistoryV2&quot;" />
+        <option value="&quot;Receive pike command&quot;" />
+        <option value="&quot;EmitterListenerResut pike key&quot;" />
+        <option value="&quot;EVENT_CONNECT_&quot;" />
+        <option value="tag:&quot;123321&quot;" />
+        <option value="tag:&quot;123&quot;" />
+        <option value="&quot;PikeMessage not for the right client&quot;" />
+        <option value="tag:&quot;SpeechEngineManager&quot;" />
+        <option value="&quot;Receive pike command &quot;" />
+        <option value="&quot;onCallEnd&quot;" />
+        <option value="onCallEnd" />
+        <option value="Load SPU fail:" />
       </list>
     </option>
   </component>
