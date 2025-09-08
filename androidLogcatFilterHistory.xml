@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:&quot;onTouchEvent&quot;" />
+    <option name="mostRecentlyUsed" value="message:&quot;callback: ------&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="message:&quot;callback: ------&quot;" />
         <option value="level:error and package:mine " />
         <option value="message:&quot;onTouchEvent&quot;" />
         <option value="tag:&quot;SseClient&quot; | tag:&quot;SocketManager&quot;" />
@@ -22,7 +23,6 @@
         <option value="&quot;Receive pike command &quot;" />
         <option value="&quot;onCallEnd&quot;" />
         <option value="onCallEnd" />
-        <option value="Load SPU fail:" />
       </list>
     </option>
   </component>
