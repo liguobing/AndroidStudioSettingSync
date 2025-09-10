@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:&quot;simulateReply&quot;" />
+    <option name="mostRecentlyUsed" value="message:&quot;scrollToBottom&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="message:&quot;scrollToBottom&quot;" />
         <option value="message:&quot;simulateReply&quot;" />
         <option value="message:&quot;callback: ------&quot;" />
         <option value="level:error and package:mine " />
@@ -22,7 +23,6 @@
         <option value="&quot;PikeMessage not for the right client&quot;" />
         <option value="tag:&quot;SpeechEngineManager&quot;" />
         <option value="&quot;Receive pike command &quot;" />
-        <option value="&quot;onCallEnd&quot;" />
       </list>
     </option>
   </component>
