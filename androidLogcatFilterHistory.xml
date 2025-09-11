@@ -1,12 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:&quot;scrollToBottom&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="level:error " />
+        <option value="buildMessageChannel" />
+        <option value="message:&quot;setMessageContent&quot;" />
+        <option value="level:error and package:mine " />
         <option value="message:&quot;scrollToBottom&quot;" />
         <option value="message:&quot;simulateReply&quot;" />
         <option value="message:&quot;callback: ------&quot;" />
-        <option value="level:error and package:mine " />
         <option value="message:&quot;onTouchEvent&quot;" />
         <option value="tag:&quot;SseClient&quot; | tag:&quot;SocketManager&quot;" />
         <option value="message:&quot;onProto method&quot; | tag:&quot;123321&quot;" />
@@ -19,10 +22,6 @@
         <option value="&quot;EmitterListenerResut pike key&quot;" />
         <option value="&quot;EVENT_CONNECT_&quot;" />
         <option value="tag:&quot;123321&quot;" />
-        <option value="tag:&quot;123&quot;" />
-        <option value="&quot;PikeMessage not for the right client&quot;" />
-        <option value="tag:&quot;SpeechEngineManager&quot;" />
-        <option value="&quot;Receive pike command &quot;" />
       </list>
     </option>
   </component>
