@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="message:&quot;onViewCreated&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="message:&quot;onViewCreated&quot;" />
+        <option value="tag:&quot;onViewCreated&quot;" />
         <option value="package:mine " />
         <option value="level:error " />
         <option value="buildMessageChannel" />
@@ -20,8 +23,6 @@
         <option value="message:&quot;fetchChatHistoryV2&quot;" />
         <option value="&quot;Receive pike command&quot;" />
         <option value="&quot;EmitterListenerResut pike key&quot;" />
-        <option value="&quot;EVENT_CONNECT_&quot;" />
-        <option value="tag:&quot;123321&quot;" />
       </list>
     </option>
   </component>

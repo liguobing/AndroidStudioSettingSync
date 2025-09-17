@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1756693215363" />
+    <option name="lastTrimTime" value="1758013507350" />
   </component>
   <component name="Translation.OpenAISettings">
     <option name="OPEN_AI">
@@ -18,6 +18,10 @@
     <option name="translationDialogLocationX" value="898" />
     <option name="translationDialogLocationY" value="551" />
     <histories>
+      <item value="cmake minimum required" />
+      <item value="Still waiting for package manifests to be fetched remotely." />
+      <item value="Schedules" />
+      <item value="Positive" />
       <item value="Proto" />
       <item value="HANGUP" />
       <item value="reason" />
@@ -64,14 +68,10 @@
       <item value="Thought" />
       <item value="Automation" />
       <item value="Application context aware ViewModel. Subclasses must have a constructor which accepts Application as the only parameter." />
-      <item value="Represents a triad of values There is no meaning attached to values in this class, it can be used for any purpose. Triple exhibits value semantics, i. e. two triples are equal if all three components are equal. An example of decomposing it into values: Params: A - type of the first value. B - type of the second value. C - type of the third value. Properties: first - First value. second - Second value. third - Third value." />
-      <item value="Represents a triad of values There is no meaning attached to values in this class, it can be used for any purpose. Triple exhibits value semantics, i. e. two triples are equal if all three components are equal. An example of decomposing it into values:" />
-      <item value="thought" />
-      <item value="Check if the socket is in a state where a reconnection attempt is needed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE_SIMPLIFIED" value="32" />
+        <entry key="CHINESE_SIMPLIFIED" value="33" />
         <entry key="ENGLISH" value="10" />
       </map>
     </option>
