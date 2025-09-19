@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:&quot;onViewCreated&quot;" />
+    <option name="mostRecentlyUsed" value="tag:&quot;SocketManager&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:&quot;SocketManager&quot;" />
+        <option value="tag:&quot;SseClient&quot;" />
+        <option value="message:&quot;initObserver&quot;" />
         <option value="message:&quot;onViewCreated&quot;" />
         <option value="tag:&quot;onViewCreated&quot;" />
         <option value="package:mine " />
@@ -20,9 +23,6 @@
         <option value="&quot;onProto method&quot;" />
         <option value="onCallBye" />
         <option value="tag:&quot;关注&quot;" />
-        <option value="message:&quot;fetchChatHistoryV2&quot;" />
-        <option value="&quot;Receive pike command&quot;" />
-        <option value="&quot;EmitterListenerResut pike key&quot;" />
       </list>
     </option>
   </component>
