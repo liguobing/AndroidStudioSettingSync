@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1758013507350" />
+    <option name="lastTrimTime" value="1758521283172" />
   </component>
   <component name="Translation.OpenAISettings">
     <option name="OPEN_AI">
@@ -18,6 +18,7 @@
     <option name="translationDialogLocationX" value="898" />
     <option name="translationDialogLocationY" value="551" />
     <histories>
+      <item value="container" />
       <item value="cmake minimum required" />
       <item value="Still waiting for package manifests to be fetched remotely." />
       <item value="Schedules" />
@@ -67,7 +68,6 @@
       <item value="The CoroutineScope associated with this ViewModel. The CoroutineScope. coroutineContext is configured with: SupervisorJob: ensures children jobs can fail independently of each other. MainCoroutineDispatcher. immediate: executes jobs immediately on the main (UI) thread. If the Dispatchers. Main is not available on the current platform (e. g., Linux), we fallback to an EmptyCoroutineContext. This scope is automatically cancelled when the ViewModel is cleared, and can be replaced by using the ViewModel constructor overload that takes in a viewModelScope: CoroutineScope. For background execution, use kotlinx. coroutines. withContext to switch to appropriate dispatchers (e. g., kotlinx. coroutines. IO). See Also: ViewModel. onCleared" />
       <item value="Thought" />
       <item value="Automation" />
-      <item value="Application context aware ViewModel. Subclasses must have a constructor which accepts Application as the only parameter." />
     </histories>
     <option name="languageScores">
       <map>

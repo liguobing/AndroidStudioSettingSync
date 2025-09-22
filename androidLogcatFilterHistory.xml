@@ -3,12 +3,12 @@
     <option name="mostRecentlyUsed" value="tag:&quot;SocketManager&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="tag:&quot;SocketManager&quot;" />
         <option value="tag:&quot;SseClient&quot;" />
         <option value="message:&quot;initObserver&quot;" />
         <option value="message:&quot;onViewCreated&quot;" />
         <option value="tag:&quot;onViewCreated&quot;" />
-        <option value="package:mine " />
         <option value="level:error " />
         <option value="buildMessageChannel" />
         <option value="message:&quot;setMessageContent&quot;" />
