@@ -1,8 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:&quot;登录测试&quot;" />
+    <option name="mostRecentlyUsed" value="message:&quot;IMInitMarkTask&quot; | message:&quot;onCreate&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="message:&quot;IMInitMarkTask&quot; | message:&quot;onCreate&quot;" />
+        <option value="message:&quot;IMInitMarkTask&quot;" />
+        <option value="message:&quot;onCreate: ---------&gt;&quot;" />
+        <option value="message:&quot;Connector&quot;" />
+        <option value="message:&quot;doConnect&quot;" />
+        <option value="message:&quot;Connector::doConnect&quot;" />
+        <option value="message:&quot;ConnectionManager&quot;" />
         <option value="tag:&quot;登录测试&quot;" />
         <option value="package:mine " />
         <option value="tag:&quot;SocketManager&quot;" />
@@ -16,13 +23,6 @@
         <option value="level:error and package:mine " />
         <option value="message:&quot;scrollToBottom&quot;" />
         <option value="message:&quot;simulateReply&quot;" />
-        <option value="message:&quot;callback: ------&quot;" />
-        <option value="message:&quot;onTouchEvent&quot;" />
-        <option value="tag:&quot;SseClient&quot; | tag:&quot;SocketManager&quot;" />
-        <option value="message:&quot;onProto method&quot; | tag:&quot;123321&quot;" />
-        <option value="&quot;onProto method&quot; | tag:&quot;123321 &quot;" />
-        <option value="&quot;onProto method&quot;" />
-        <option value="onCallBye" />
       </list>
     </option>
   </component>
