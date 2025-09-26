@@ -3,8 +3,8 @@
     <option name="mostRecentlyUsed" value="message:&quot;登录成功&quot; | message:&quot;onCreate&quot;" />
     <option name="nonFavorites">
       <list>
-        <option value="message:&quot;登录成功&quot; | message:&quot;onCreate&quot;" />
         <option value="level:error  " />
+        <option value="message:&quot;登录成功&quot; | message:&quot;onCreate&quot;" />
         <option value="message:&quot;IMInitMarkTask&quot; | message:&quot;onCreate&quot;" />
         <option value="message:&quot;IMInitMarkTask&quot;" />
         <option value="message:&quot;onCreate: ---------&gt;&quot;" />
