@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:&quot;SocketManager&quot;" />
+    <option name="mostRecentlyUsed" value="tag:&quot;登录测试&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:&quot;登录测试&quot;" />
         <option value="package:mine " />
         <option value="tag:&quot;SocketManager&quot;" />
         <option value="tag:&quot;SseClient&quot;" />
@@ -22,7 +23,6 @@
         <option value="&quot;onProto method&quot; | tag:&quot;123321 &quot;" />
         <option value="&quot;onProto method&quot;" />
         <option value="onCallBye" />
-        <option value="tag:&quot;关注&quot;" />
       </list>
     </option>
   </component>
