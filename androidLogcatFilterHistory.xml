@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:&quot;onTouch: ---------&gt;&quot;" />
+    <option name="mostRecentlyUsed" value="message:&quot;onDraw: --------&gt;&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="message:&quot;onDraw: --------&gt;&quot;" />
         <option value="message:&quot;onTouch: ---------&gt;&quot;" />
         <option value="message:&quot;onTouch: ---------&gt;&quot; | message:&quot;onCreate&quot;" />
         <option value="level:error and package:mine " />
@@ -22,7 +23,6 @@
         <option value="tag:&quot;SocketManager&quot;" />
         <option value="tag:&quot;SseClient&quot;" />
         <option value="message:&quot;initObserver&quot;" />
-        <option value="message:&quot;onViewCreated&quot;" />
       </list>
     </option>
   </component>
