@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:&quot;登录成功&quot; | message:&quot;onCreate&quot;" />
+    <option name="mostRecentlyUsed" value="level:error and package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error and package:mine " />
+        <option value="package:mine" />
+        <option value="tag:&quot;测试&quot;" />
         <option value="level:error  " />
         <option value="message:&quot;登录成功&quot; | message:&quot;onCreate&quot;" />
         <option value="message:&quot;IMInitMarkTask&quot; | message:&quot;onCreate&quot;" />
@@ -20,9 +23,6 @@
         <option value="message:&quot;onViewCreated&quot;" />
         <option value="tag:&quot;onViewCreated&quot;" />
         <option value="level:error " />
-        <option value="buildMessageChannel" />
-        <option value="message:&quot;setMessageContent&quot;" />
-        <option value="level:error and package:mine " />
       </list>
     </option>
   </component>
