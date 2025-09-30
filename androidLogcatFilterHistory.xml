@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:&quot;TAG&quot;" />
+    <option name="mostRecentlyUsed" value="&quot;onChanged: ----------------&gt;&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="&quot;onChanged: ----------------&gt;&quot;" />
         <option value="tag:&quot;TAG&quot;" />
         <option value="message:&quot;生成的随机数是&quot;" />
         <option value="message:&quot;onDraw: --------&gt;&quot;" />
@@ -22,7 +23,6 @@
         <option value="message:&quot;ConnectionManager&quot;" />
         <option value="tag:&quot;登录测试&quot;" />
         <option value="package:mine " />
-        <option value="tag:&quot;SocketManager&quot;" />
       </list>
     </option>
   </component>
