@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine and level:error " />
+    <option name="mostRecentlyUsed" value="message:&quot;IMInitMarkTask: &quot; | message:&quot;sendSimpleMessage&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="message:&quot;IMInitMarkTask: &quot; | message:&quot;sendSimpleMessage&quot;" />
+        <option value="message:&quot;success: &quot; | message:&quot;sendSimpleMessage&quot;" />
         <option value="package:mine and level:error " />
         <option value="tag:&quot;lgb-debug&quot;" />
         <option value="tag:&quot;MainApplication&quot;" />
@@ -21,8 +23,6 @@
         <option value="message:&quot;登录成功&quot; | message:&quot;onCreate&quot;" />
         <option value="message:&quot;IMInitMarkTask&quot; | message:&quot;onCreate&quot;" />
         <option value="message:&quot;IMInitMarkTask&quot;" />
-        <option value="message:&quot;onCreate: ---------&gt;&quot;" />
-        <option value="message:&quot;Connector&quot;" />
       </list>
     </option>
   </component>
