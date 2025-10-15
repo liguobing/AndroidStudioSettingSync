@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:&quot;lgb-debug&quot;" />
+    <option name="mostRecentlyUsed" value="package:mine and level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine and level:error " />
         <option value="tag:&quot;lgb-debug&quot;" />
         <option value="tag:&quot;MainApplication&quot;" />
         <option value="message:&quot;success: &quot; | message:&quot;onVoiceDBSize&quot;" />
@@ -22,7 +23,6 @@
         <option value="message:&quot;IMInitMarkTask&quot;" />
         <option value="message:&quot;onCreate: ---------&gt;&quot;" />
         <option value="message:&quot;Connector&quot;" />
-        <option value="message:&quot;doConnect&quot;" />
       </list>
     </option>
   </component>
