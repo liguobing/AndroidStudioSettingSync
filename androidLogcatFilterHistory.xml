@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:&quot;success: &quot; | message:&quot;onVoiceDBSize&quot;" />
+    <option name="mostRecentlyUsed" value="tag:&quot;MainApplication&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:&quot;MainApplication&quot;" />
         <option value="message:&quot;success: &quot; | message:&quot;onVoiceDBSize&quot;" />
         <option value="message:&quot;success: &quot;" />
         <option value="&quot;onChanged: ----------------&gt;&quot;" />
@@ -22,7 +23,6 @@
         <option value="message:&quot;Connector&quot;" />
         <option value="message:&quot;doConnect&quot;" />
         <option value="message:&quot;Connector::doConnect&quot;" />
-        <option value="message:&quot;ConnectionManager&quot;" />
       </list>
     </option>
   </component>
