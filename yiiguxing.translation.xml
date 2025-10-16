@@ -18,6 +18,7 @@
     <option name="translationDialogLocationX" value="898" />
     <option name="translationDialogLocationY" value="551" />
     <histories>
+      <item value="Call to 'printStackTrace()' should probably be replaced with more robust logging" />
       <item value="on connection related observer init" />
       <item value="Draft" />
       <item value="task dependencies" />
@@ -67,11 +68,10 @@
       <item value="send location task" />
       <item value="Configuration" />
       <item value="role" />
-      <item value="Do not place Android context classes in static fields (static reference to FloatingWindowManager which has field context pointing to Context); this is a memory leak" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE_SIMPLIFIED" value="33" />
+        <entry key="CHINESE_SIMPLIFIED" value="34" />
         <entry key="ENGLISH" value="10" />
       </map>
     </option>
