@@ -18,6 +18,7 @@
     <option name="translationDialogLocationX" value="898" />
     <option name="translationDialogLocationY" value="551" />
     <histories>
+      <item value="Notify any registered observers that the item reflected at position has been newly inserted. The item previously at position is now at position position + 1. This is a structural change event. Representations of other existing items in the data set are still considered up to date and will not be rebound, though their positions may be altered." />
       <item value="complete" />
       <item value="Call to 'printStackTrace()' should probably be replaced with more robust logging" />
       <item value="on connection related observer init" />
@@ -67,7 +68,6 @@
       <item value="CONTRACT" />
       <item value="Contract" />
       <item value="send location task" />
-      <item value="Configuration" />
     </histories>
     <option name="languageScores">
       <map>
