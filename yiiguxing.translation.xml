@@ -18,6 +18,7 @@
     <option name="translationDialogLocationX" value="898" />
     <option name="translationDialogLocationY" value="551" />
     <histories>
+      <item value="complete" />
       <item value="Call to 'printStackTrace()' should probably be replaced with more robust logging" />
       <item value="on connection related observer init" />
       <item value="Draft" />
@@ -67,7 +68,6 @@
       <item value="Contract" />
       <item value="send location task" />
       <item value="Configuration" />
-      <item value="role" />
     </histories>
     <option name="languageScores">
       <map>
