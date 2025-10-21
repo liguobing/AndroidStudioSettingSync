@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="connectListener" />
+    <option name="mostRecentlyUsed" value="IMManager" />
     <option name="nonFavorites">
       <list>
+        <option value="IMManager" />
         <option value="connectListener" />
         <option value="interruptStream" />
         <option value="message:&quot;bind: --------&gt;&quot;" />
@@ -22,7 +23,6 @@
         <option value="tag:&quot;MainApplication&quot;" />
         <option value="message:&quot;success: &quot; | message:&quot;onVoiceDBSize&quot;" />
         <option value="message:&quot;success: &quot;" />
-        <option value="&quot;onChanged: ----------------&gt;&quot;" />
       </list>
     </option>
   </component>
