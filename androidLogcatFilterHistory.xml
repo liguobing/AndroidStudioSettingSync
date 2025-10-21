@@ -1,8 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:&quot;重点关注一下&quot;" />
+    <option name="mostRecentlyUsed" value="connectListener" />
     <option name="nonFavorites">
       <list>
+        <option value="connectListener" />
+        <option value="interruptStream" />
+        <option value="message:&quot;bind: --------&gt;&quot;" />
+        <option value="tag:&quot;头尾&quot; | tag:&quot;片段&quot;" />
+        <option value="message:&quot;返序列化&quot;" />
+        <option value="message:&quot;返序列化:&quot;" />
+        <option value="tag:&quot;头尾&quot;" />
         <option value="tag:&quot;重点关注一下&quot;" />
         <option value="message:&quot;message = &quot; | message:&quot;onAdditionChange&quot;" />
         <option value="message:&quot;message = &quot; | message:&quot;sendSimpleMessage&quot;" />
@@ -16,13 +23,6 @@
         <option value="message:&quot;success: &quot; | message:&quot;onVoiceDBSize&quot;" />
         <option value="message:&quot;success: &quot;" />
         <option value="&quot;onChanged: ----------------&gt;&quot;" />
-        <option value="tag:&quot;TAG&quot;" />
-        <option value="message:&quot;生成的随机数是&quot;" />
-        <option value="message:&quot;onDraw: --------&gt;&quot;" />
-        <option value="message:&quot;onTouch: ---------&gt;&quot;" />
-        <option value="message:&quot;onTouch: ---------&gt;&quot; | message:&quot;onCreate&quot;" />
-        <option value="level:error and package:mine " />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
