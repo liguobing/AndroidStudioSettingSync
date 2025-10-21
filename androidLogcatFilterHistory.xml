@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="IMManager" />
+    <option name="mostRecentlyUsed" value="ASR识别失败" />
     <option name="nonFavorites">
       <list>
+        <option value="ASR识别失败" />
+        <option value="ASR解析成功" />
         <option value="IMManager" />
         <option value="connectListener" />
         <option value="interruptStream" />
@@ -21,8 +23,6 @@
         <option value="package:mine and level:error " />
         <option value="tag:&quot;lgb-debug&quot;" />
         <option value="tag:&quot;MainApplication&quot;" />
-        <option value="message:&quot;success: &quot; | message:&quot;onVoiceDBSize&quot;" />
-        <option value="message:&quot;success: &quot;" />
       </list>
     </option>
   </component>
