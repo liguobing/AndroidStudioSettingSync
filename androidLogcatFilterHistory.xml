@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ASR识别失败" />
+    <option name="mostRecentlyUsed" value="ConversationActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="ConversationActivity" />
         <option value="ASR识别失败" />
         <option value="ASR解析成功" />
         <option value="IMManager" />
@@ -22,7 +23,6 @@
         <option value="message:&quot;success: &quot; | message:&quot;sendSimpleMessage&quot;" />
         <option value="package:mine and level:error " />
         <option value="tag:&quot;lgb-debug&quot;" />
-        <option value="tag:&quot;MainApplication&quot;" />
       </list>
     </option>
   </component>
