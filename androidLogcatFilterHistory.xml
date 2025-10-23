@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="&quot;历史消息&quot;" />
+    <option name="mostRecentlyUsed" value="IMManager" />
     <option name="nonFavorites">
       <list>
+        <option value="IMManager" />
         <option value="&quot;历史消息&quot;" />
         <option value="message:&quot;historyMessageCallback&quot; | message:&quot;createNewConversation&quot; | message:&quot;initViews&quot;" />
         <option value="message:&quot;createNewConversation&quot;" />
@@ -20,7 +21,6 @@
         <option value="ConversationActivity" />
         <option value="ASR识别失败" />
         <option value="ASR解析成功" />
-        <option value="IMManager" />
         <option value="connectListener" />
         <option value="interruptStream" />
       </list>
