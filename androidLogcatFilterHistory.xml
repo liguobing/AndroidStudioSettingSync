@@ -1,10 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="&quot;historyMessageCallback&quot; | &quot;createNewConversation&quot;" />
+    <option name="mostRecentlyUsed" value="&quot;historyMessageCallback&quot;" />
     <option name="nonFavorites">
       <list>
-        <option value="&quot;historyMessageCallback&quot; | &quot;createNewConversation&quot;" />
         <option value="&quot;historyMessageCallback&quot;" />
+        <option value="&quot;imChunkBean&quot;" />
+        <option value="message:&quot;historyMessageCallback&quot; | message:&quot;createNewConversation&quot;" />
+        <option value="&quot;historyMessageCallback&quot; | &quot;createNewConversation&quot;" />
         <option value="package:mine and level:error " />
         <option value="package:mine and level:error  historyMessageCallback" />
         <option value="&quot;createNewUIMsg: -----&gt;&quot;" />
@@ -21,8 +23,6 @@
         <option value="message:&quot;返序列化&quot;" />
         <option value="message:&quot;返序列化:&quot;" />
         <option value="tag:&quot;头尾&quot;" />
-        <option value="tag:&quot;重点关注一下&quot;" />
-        <option value="message:&quot;message = &quot; | message:&quot;onAdditionChange&quot;" />
       </list>
     </option>
   </component>
