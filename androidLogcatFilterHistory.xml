@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="&quot;BaseDBProxy::&quot;" />
+    <option name="mostRecentlyUsed" value="&quot;createNewUIMsg: -----&gt;&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="&quot;createNewUIMsg: -----&gt;&quot;" />
         <option value="&quot;BaseDBProxy::&quot;" />
         <option value="tag:&quot;base&quot;" />
         <option value="ConversationActivity" />
@@ -22,7 +23,6 @@
         <option value="message:&quot;message&quot; | message:&quot;sendSimpleMessage&quot;" />
         <option value="package:mine " />
         <option value="message:&quot;IMInitMarkTask: &quot; | message:&quot;sendSimpleMessage&quot;" />
-        <option value="message:&quot;success: &quot; | message:&quot;sendSimpleMessage&quot;" />
       </list>
     </option>
   </component>
