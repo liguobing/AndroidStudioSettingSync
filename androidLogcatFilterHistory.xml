@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:&quot;createNewConversation&quot;" />
+    <option name="mostRecentlyUsed" value="message:&quot;historyMessageCallback&quot; | message:&quot;createNewConversation&quot; | message:&quot;initViews&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="message:&quot;historyMessageCallback&quot; | message:&quot;createNewConversation&quot; | message:&quot;initViews&quot;" />
         <option value="message:&quot;createNewConversation&quot;" />
         <option value="tag:&quot;头&quot; | tag:&quot;尾&quot;| tag:&quot;片段&quot;" />
         <option value="tag:&quot;头&quot; | tag:&quot;&quot;| tag:&quot;片段&quot;" />
@@ -22,7 +23,6 @@
         <option value="connectListener" />
         <option value="interruptStream" />
         <option value="message:&quot;bind: --------&gt;&quot;" />
-        <option value="tag:&quot;头尾&quot; | tag:&quot;片段&quot;" />
       </list>
     </option>
   </component>
