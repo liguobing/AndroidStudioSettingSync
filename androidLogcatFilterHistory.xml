@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="&quot;historyMessageCallback&quot;" />
+    <option name="mostRecentlyUsed" value="renderMarkdownUseMarkwonAdapter" />
     <option name="nonFavorites">
       <list>
-        <option value="&quot;historyMessageCallback&quot;" />
+        <option value="renderMarkdownUseMarkwonAdapter" />
         <option value="tag:&quot;ChatListAdapter&quot;" />
+        <option value="&quot;historyMessageCallback&quot;" />
         <option value="IMManager" />
         <option value="&quot;历史消息&quot;" />
         <option value="message:&quot;historyMessageCallback&quot; | message:&quot;createNewConversation&quot; | message:&quot;initViews&quot;" />
@@ -22,7 +23,6 @@
         <option value="ConversationActivity" />
         <option value="ASR识别失败" />
         <option value="ASR解析成功" />
-        <option value="connectListener" />
       </list>
     </option>
   </component>
