@@ -1,7 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="&quot;queryMessageByMsgId&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="&quot;queryMessageByMsgId&quot;" />
+        <option value="&quot;registerIMMsgListener&quot;" />
+        <option value="&quot;registerIMMsgListener:&quot;" />
+        <option value="queryMessageByMsgId" />
+        <option value="&quot;initEvents: ---------&gt;&quot;" />
+        <option value="&quot;addHistory: -------final count&quot;" />
         <option value="package:mine " />
         <option value="message:&quot;onCreate: ---------------&gt;&quot;" />
         <option value="message:&quot;historyMessageCallback&quot;" />
@@ -16,12 +23,6 @@
         <option value="&quot;历史消息&quot;" />
         <option value="message:&quot;historyMessageCallback&quot; | message:&quot;createNewConversation&quot; | message:&quot;initViews&quot;" />
         <option value="message:&quot;createNewConversation&quot;" />
-        <option value="tag:&quot;头&quot; | tag:&quot;尾&quot;| tag:&quot;片段&quot;" />
-        <option value="tag:&quot;头&quot; | tag:&quot;&quot;| tag:&quot;片段&quot;" />
-        <option value="&quot;imChunkBean&quot;" />
-        <option value="message:&quot;historyMessageCallback&quot; | message:&quot;createNewConversation&quot;" />
-        <option value="&quot;historyMessageCallback&quot; | &quot;createNewConversation&quot;" />
-        <option value="package:mine and level:error " />
       </list>
     </option>
   </component>
