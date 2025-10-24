@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:&quot;onCreate: ---------------&gt;&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="message:&quot;onCreate: ---------------&gt;&quot;" />
         <option value="message:&quot;historyMessageCallback&quot;" />
         <option value="&quot;onCreate: ---------------&gt;&quot;" />
@@ -22,7 +22,6 @@
         <option value="message:&quot;historyMessageCallback&quot; | message:&quot;createNewConversation&quot;" />
         <option value="&quot;historyMessageCallback&quot; | &quot;createNewConversation&quot;" />
         <option value="package:mine and level:error " />
-        <option value="package:mine and level:error  historyMessageCallback" />
       </list>
     </option>
   </component>
