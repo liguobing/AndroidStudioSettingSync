@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="yylog" />
+    <option name="mostRecentlyUsed" value="ConversationActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="ConversationActivity" />
         <option value="package:mine " />
         <option value="yylog" />
         <option value="&quot;onResume:&quot;" />
@@ -22,7 +23,6 @@
         <option value="renderMarkdownUseMarkwonAdapter" />
         <option value="tag:&quot;ChatListAdapter&quot;" />
         <option value="&quot;historyMessageCallback&quot;" />
-        <option value="IMManager" />
       </list>
     </option>
   </component>
