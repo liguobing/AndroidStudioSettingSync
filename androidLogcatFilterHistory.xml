@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="&quot;onResume:&quot;" />
+    <option name="mostRecentlyUsed" value="yylog" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="yylog" />
         <option value="&quot;onResume:&quot;" />
         <option value="&quot;initEvent: -------------&gt;&quot;" />
         <option value="ASR" />
@@ -12,7 +14,6 @@
         <option value="&quot;registerIMMsgListener:&quot;" />
         <option value="queryMessageByMsgId" />
         <option value="&quot;addHistory: -------final count&quot;" />
-        <option value="package:mine " />
         <option value="message:&quot;onCreate: ---------------&gt;&quot;" />
         <option value="message:&quot;historyMessageCallback&quot;" />
         <option value="&quot;onCreate: ---------------&gt;&quot;" />
@@ -22,7 +23,6 @@
         <option value="tag:&quot;ChatListAdapter&quot;" />
         <option value="&quot;historyMessageCallback&quot;" />
         <option value="IMManager" />
-        <option value="&quot;历史消息&quot;" />
       </list>
     </option>
   </component>
