@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:&quot;im&quot;" />
+    <option name="mostRecentlyUsed" value="本地数据库拉取数据" />
     <option name="nonFavorites">
       <list>
+        <option value="本地数据库拉取数据" />
+        <option value="tag:&quot;longcat_android&quot;" />
         <option value="tag:&quot;im&quot;" />
         <option value="&quot;onDBStateChange:state=&quot;" />
         <option value="ConversationActivity" />
@@ -21,8 +23,6 @@
         <option value="message:&quot;historyMessageCallback&quot;" />
         <option value="&quot;onCreate: ---------------&gt;&quot;" />
         <option value="showEmptyUI" />
-        <option value="onCreate: ---------------&gt;" />
-        <option value="renderMarkdownUseMarkwonAdapter" />
       </list>
     </option>
   </component>
