@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1760957839165" />
+    <option name="lastTrimTime" value="1761816894700" />
   </component>
   <component name="Translation.OpenAISettings">
     <option name="OPEN_AI">
@@ -18,6 +18,9 @@
     <option name="translationDialogLocationX" value="898" />
     <option name="translationDialogLocationY" value="551" />
     <histories>
+      <item value="check value valid" />
+      <item value="Valid" />
+      <item value="video frame rate" />
       <item value="Result of 'DrawerChatListAdapter. getSessionList()' is ignored" />
       <item value="seen" />
       <item value="register receive message listener" />
@@ -65,9 +68,6 @@
       <item value="is blank" />
       <item value="Returns true if this char sequence is empty or consists solely of whitespace characters according to Char. isWhitespace." />
       <item value="INFO KEY AUDIO PACKET DATA" />
-      <item value="Collapse" />
-      <item value="remain" />
-      <item value="path pattern" />
     </histories>
     <option name="languageScores">
       <map>
