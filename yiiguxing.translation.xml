@@ -18,6 +18,7 @@
     <option name="translationDialogLocationX" value="898" />
     <option name="translationDialogLocationY" value="551" />
     <histories>
+      <item value="convert mirror mode" />
       <item value="check value valid" />
       <item value="Valid" />
       <item value="video frame rate" />
@@ -67,7 +68,6 @@
       <item value="Overtime" />
       <item value="is blank" />
       <item value="Returns true if this char sequence is empty or consists solely of whitespace characters according to Char. isWhitespace." />
-      <item value="INFO KEY AUDIO PACKET DATA" />
     </histories>
     <option name="languageScores">
       <map>
