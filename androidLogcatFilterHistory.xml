@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="&quot;创建会话&quot;" />
+    <option name="mostRecentlyUsed" value="passport" />
     <option name="nonFavorites">
       <list>
+        <option value="passport" />
+        <option value="package:mine " />
         <option value="&quot;创建会话&quot;" />
         <option value="&quot;&quot;" />
         <option value="&quot;创建&quot;" />
         <option value="&quot;getScheme: --------&quot;" />
-        <option value="passport" />
-        <option value="package:mine " />
         <option value="level:error " />
         <option value="AgoraRTCService" />
         <option value="本地数据库拉取数据" />
