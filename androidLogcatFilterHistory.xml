@@ -1,14 +1,21 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="本地数据库拉取数据" />
+    <option name="mostRecentlyUsed" value="&quot;创建会话&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="&quot;创建会话&quot;" />
+        <option value="&quot;&quot;" />
+        <option value="&quot;创建&quot;" />
+        <option value="&quot;getScheme: --------&quot;" />
+        <option value="passport" />
+        <option value="package:mine " />
+        <option value="level:error " />
+        <option value="AgoraRTCService" />
         <option value="本地数据库拉取数据" />
         <option value="tag:&quot;longcat_android&quot;" />
         <option value="tag:&quot;im&quot;" />
         <option value="&quot;onDBStateChange:state=&quot;" />
         <option value="ConversationActivity" />
-        <option value="package:mine " />
         <option value="yylog" />
         <option value="&quot;onResume:&quot;" />
         <option value="&quot;initEvent: -------------&gt;&quot;" />
@@ -16,13 +23,6 @@
         <option value="&quot;initEvents: ---------&gt;&quot;" />
         <option value="&quot;queryMessageByMsgId&quot;" />
         <option value="&quot;registerIMMsgListener&quot;" />
-        <option value="&quot;registerIMMsgListener:&quot;" />
-        <option value="queryMessageByMsgId" />
-        <option value="&quot;addHistory: -------final count&quot;" />
-        <option value="message:&quot;onCreate: ---------------&gt;&quot;" />
-        <option value="message:&quot;historyMessageCallback&quot;" />
-        <option value="&quot;onCreate: ---------------&gt;&quot;" />
-        <option value="showEmptyUI" />
       </list>
     </option>
   </component>

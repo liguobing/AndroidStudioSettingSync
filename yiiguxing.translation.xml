@@ -18,6 +18,12 @@
     <option name="translationDialogLocationX" value="898" />
     <option name="translationDialogLocationY" value="551" />
     <histories>
+      <item value="on device orientation changed" />
+      <item value="on display orientation changed" />
+      <item value="Rotation" />
+      <item value="video frame" />
+      <item value="rotation" />
+      <item value="set frame rate" />
       <item value="convert mirror mode" />
       <item value="check value valid" />
       <item value="Valid" />
@@ -62,12 +68,6 @@
       <item value="Actual" />
       <item value="expand" />
       <item value="TRANSPORT CELLULAR" />
-      <item value="Conflicting overloads: public final fun getVoiceName(): String defined in com. meituan. ai. multiinteraction. demo. constants. ConversationConfig, public final fun getVoiceName(): String defined in com. meituan. ai. multiinteraction. demo. constants. ConversationConfi" />
-      <item value="recog callback" />
-      <item value="receive" />
-      <item value="Overtime" />
-      <item value="is blank" />
-      <item value="Returns true if this char sequence is empty or consists solely of whitespace characters according to Char. isWhitespace." />
     </histories>
     <option name="languageScores">
       <map>
