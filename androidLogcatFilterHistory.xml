@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="CharacterWriterRunnable" />
     <option name="nonFavorites">
       <list>
+        <option value="CharacterWriterRunnable" />
         <option value="package:mine " />
         <option value="&quot;onResume: --------&gt;&quot;" />
         <option value="tag:&quot;头&quot; | tag:&quot;尾&quot;| tag:&quot;片段&quot;" />
@@ -21,7 +23,6 @@
         <option value="&quot;onResume:&quot;" />
         <option value="&quot;initEvent: -------------&gt;&quot;" />
         <option value="ASR" />
-        <option value="&quot;initEvents: ---------&gt;&quot;" />
       </list>
     </option>
   </component>
